@@ -1,7 +1,7 @@
 ## 📚 ÍNDICE DEL CURSO DEVOPS
 
 ### **MÓDULO 1: FUNDAMENTOS**
-1. **Introducción a DevOps**
+1. Introducción a DevOps
 2. Control de versiones con Git
 3. Sistemas operativos Linux básico
 4. Redes y protocolos básicos
